@@ -1,0 +1,2 @@
+[database]
+ConnectionString=Server=localhost;Database=Tourism;User_Name=sa;Password=YourStrong!Passw0rd;Encrypt=False;
